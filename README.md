@@ -25,4 +25,5 @@ multiple Virtual Machines using Oracle VirtualBox.
 3. From Client VM, run curl commands to test API
 
 ## OUTPUT:
-<img width="1793" height="553" alt="image" src="https://github.com/user-attachments/assets/764c28b5-d52d-42f7-bdb9-2721e04904ca" />
+<img width="1635" height="520" alt="image" src="https://github.com/user-attachments/assets/ab56e302-ac44-4eef-b7bb-55df4226ff8d" />
+
