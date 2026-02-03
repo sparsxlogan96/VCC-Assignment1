@@ -23,3 +23,6 @@ multiple Virtual Machines using Oracle VirtualBox.
 1. Start Database VM
 2. Start API VM and run `node index.js`
 3. From Client VM, run curl commands to test API
+
+## OUTPUT:
+<img width="1793" height="553" alt="image" src="https://github.com/user-attachments/assets/764c28b5-d52d-42f7-bdb9-2721e04904ca" />
